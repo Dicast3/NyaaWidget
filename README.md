@@ -1,5 +1,5 @@
 ## How to install
-### Manual installation
+#### Manual installation
 1) Download [Scriptable app](https://scriptable.app/)
 2) Longpress on your home screen and add Scriptable widget
 3) Open Scriptable, click + in the top right
