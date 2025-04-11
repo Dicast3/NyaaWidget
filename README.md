@@ -1,4 +1,5 @@
 # Screenshots
+[Medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0397.jpeg)
 
 # How to install
 ### Manual installation
