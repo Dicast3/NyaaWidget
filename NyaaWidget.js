@@ -117,7 +117,7 @@ async function createMediumWidgetNeko(nekoUrl, authorName, artistHref) {
 
   vstack.addSpacer(4)
 
-  let sourceLabel = vstack.addText("pixiv.net")
+  let sourceLabel = vstack.addText("nekos.best")
   sourceLabel.font = Font.lightSystemFont(12)
   sourceLabel.textColor = new Color("#555555")
 
