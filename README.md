@@ -1,6 +1,15 @@
+# General Info
+- Large widget is ugly (i'll not fix it soon)
+- Cool catgirl pics
+- Lightweight (tested on Iphone 8)
+- Image refresh every hour by default
+- click on the photo to open it in the browser, click on the author to open his profile (exclusive to the medium widget)
+
 # Screenshots
 ![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0396.jpeg)
+Small widget
 ![medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0397.jpeg)
+Medium widget
 
 # How to install
 ### Manual installation
