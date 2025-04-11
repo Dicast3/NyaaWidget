@@ -1,5 +1,5 @@
 # Screenshots
-{#}(https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0397.jpeg)
+![small widget](images/example.png)
 
 # How to install
 ### Manual installation
