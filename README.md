@@ -6,10 +6,9 @@
 - click on the photo to open it in the browser, click on the author to open his profile (exclusive to the medium widget)
 
 # Screenshots
-![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0396.jpeg)
-Small widget
-![medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/IMG_0397.jpeg)
-Medium widget
+|-----|------|
+|![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/small_widget.jpeg)|![medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/medium_widget.jpeg)|
+
 
 # How to install
 ### Manual installation
